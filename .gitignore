@@ -1,0 +1,10 @@
+file.db
+
+mysql.py
+
+secret.py
+
+__pycache__/
+
+.DS_Store
+
