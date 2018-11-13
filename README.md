@@ -1,14 +1,11 @@
-Attendance bot for MethodPro
-========
+## Attendance bot for MethodPro
 
-Telegram bot that checks attendance in a class using bluetooth.
+Telegram bot that checks attendance in a class using Bluetooth.
 
 Bunch of scripts that were written in 24 hours last summer..
-----------------
 
-Prerequisites
-----------------
+### Prerequisites
 
-* Wireshark_ - software for getting Bluetooth addresses
+[Wireshark](https://www.wireshark.org/) - software for getting Bluetooth addresses
 
-.. _Wireshark: https://www.wireshark.org/
+Telegram bot API token
