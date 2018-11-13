@@ -2,7 +2,7 @@
 
 Telegram bot that checks attendance in a class using Bluetooth.
 
-Bunch of scripts that were written in 24 hours last summer..
+Bunch of scripts that were written during the hackathon (won, btw) last summer..
 
 ### Prerequisites
 
